@@ -1,0 +1,17 @@
+,abb,name
+0,A,Adenine
+1,G,Guanine
+2,C,Cytosine
+3,T,Thymine
+4,U,Uracil
+5,R,Purine (A or G)
+6,Y,Pyrimidine (C or T)
+7,N,Any nucleotide
+8,W,Weak (A or T)
+9,S,Strong (G or C)
+10,M,Amino (A or C)
+11,K,Keto (G or T)
+12,B,Not A (G or C or T)
+13,H,Not G (A or C or T)
+14,D,Not C (A or G or T)
+15,V,Not T (A or G or C)

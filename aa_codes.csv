@@ -1,0 +1,27 @@
+,abb,sabb,name
+0,Ala,A,Alanine
+1,Arg,R,Arginine
+2,Asn,N,Asparagine
+3,Asp,D,Aspartic acid
+4,Cys,C,Cysteine
+5,Gln,Q,Glutamine
+6,Glu,E,Glutamic acid
+7,Gly,G,Glycine
+8,His,H,Histidine
+9,Ile,I,Isoleucine
+10,Leu,L,Leucine
+11,Lys,K,Lysine
+12,Met,M,Methionine
+13,Phe,F,Phenylalanine
+14,Pro,P,Proline
+15,Ser,S,Serine
+16,Thr,T,Threonine
+17,Trp,W,Tryptophan
+18,Tyr,Y,Tyrosine
+19,Val,V,Valine
+20,Asx,B,Asn or Asp
+21,Glx,Z,Gln or Glu
+22,Xle,J,Leu or Ile
+23,Sec,U,Selenocysteine (UGA)
+24,Pyl,O,Pyrrolysine (UAG)
+25,Unk,X,Unknown
