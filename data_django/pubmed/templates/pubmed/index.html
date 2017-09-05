@@ -1,0 +1,23 @@
+
+
+{% if all_abstracts %}
+<h3>Here Are All Abstracts</h3>
+
+	<ul>
+		{% for abstract in all_abstracts %}
+
+		<li>
+			
+			<a href="{% url 'detail' abstract.pmid %}">{{ abstract.pmid }}</a>
+
+			<p>{{ abstract.title }}</p>
+		</li>
+		
+		{% endfor%}
+	</ul>
+
+{% else %}
+
+	<h3>You don't have any abstract</h3>
+
+{% endif %}
