@@ -1,0 +1,21 @@
+Amino Acid,Letter,Isoelectric_P,Hydrophobicity
+Alanine,A,6.00,1.8
+Arginine,R,10.76,-4.5
+Asparagine,N,5.41,-3.5
+Aspartate,D,2.77,-3.5
+Cysteine,C,5.07,2.5
+Glutamate,E,3.22,-3.5
+Glutamine,Q,5.65,-3.5
+Glycine,G,5.97,-0.4
+Histidine,H,7.59,-3.2
+Isoleucine,I,6.02,4.5
+Leucine,L,5.98,3.8
+Lysine,K,9.74,-3.9
+Methionine,M,5.74,1.9
+Phenylalanine,F,5.48,2.8
+Proline,P,6.30,-1.6
+Serine,S,5.68,-0.8
+Threonine,T,5.60,-0.7
+Tryptophan,W,5.89,-0.9
+Tyrosine,Y,5.66,-1.3
+Valine,V,5.96,4.2
