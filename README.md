@@ -1,14 +1,10 @@
-# MSK
-NYC Data SA Capstone
-PPT link: https://docs.google.com/presentation/d/1pcZGAhYuSqnVWtpQaehIzNMs2ElhkWBSCBmtz0l52uU/edit?usp=sharing
-
 # Genetic Mutation Cancer Classification Project - Natural Language Processing and Machine Learning
 ## Contributors: Katie Critelli, Patrick Masi-Phelps, Sam Trost, and Jing Wang
 ## Blog post: https://blog.nycdatascience.com/student-works/redefining-cancer-treatment-predicting-gene-mutations-advance-personalized-medicine/
 
 Welcome to the repository for the Cancer Genetic Analysis Team (CGAT) of NYC Data Science Academy! 
 
-We put together a package of solutions to help cancer researchers speed up the process of classifying genetic mutation variations as drivers or passengers of cancer tumor growth. Memorial Sloan Kettering Cancer Center put out a public competition soliciting machine learning models to take relevant medical research text and classify the associated genetic mutations into one of nine mutually exclusive classes, each contributing differently to cancer tumor growth (or not). Link to associated Kaggle competition: https://www.kaggle.com/c/msk-redefining-cancer-treatment
+We put together a package of solutions to help cancer researchers speed up the process of classifying genetic mutation variations as drivers or passengers of cancer tumor growth. Memorial Sloan Kettering Cancer Center put out a public competition soliciting machine learning models to take relevant medical research text and classify the associated genetic mutations into one of nine mutually exclusive classes, each contributing differently to cancer tumor growth (or not). 
 
 Our solutions include:
   - RShiny app with interactive visualizations, including distributions of genes, variations, and mutation characteristics broken down by class, as well as text features obtained from medical research papers used to manually classify mutations.
@@ -19,3 +15,5 @@ Our solutions include:
 You can find a deck summarizing our project pipeline, including data analysis and visualizations (and RShiny app), machine learning models, findings, Django app, and areas for further improvement in the file "MSK Kaggle Project (1).pdf".
 
 iPython notebooks and R files used in data preprocessing, visualization, and modeling can be found in the appropriate folder. 
+
+Link to associated Kaggle competition: https://www.kaggle.com/c/msk-redefining-cancer-treatment
